@@ -14,11 +14,11 @@ Meu nome é José Milton Júnior, sou estudante de Análise e Desenvolvimento de
 
 
 
-\---
+---
 
  
 
-\## Tecnologias
+## Tecnologias
 
  
 
