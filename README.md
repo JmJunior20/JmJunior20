@@ -1,7 +1,9 @@
 
 ![Welcome](/logo-jmdeveloper.png?raw=true)
 
+<h1 align="center">
 ### JOSÉ MILTON JÚNIOR :computer:
+ </h1>
 
 
  
@@ -13,16 +15,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmjuniormonteiro@gmail.com)](mailto:jmjuniormonteiro@gmail.com)
 
 
-
+<p align="center">
 Meu nome é José Milton Júnior, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento.
-
+</p>
 
 
 ---
 
  
 
-## Tecnologias
+## Tecnologias :rocket:
 
  
 
