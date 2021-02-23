@@ -1,12 +1,13 @@
-
-![Welcome](/logo-jmdeveloper.png?raw=true)
+<p align="center">
+<img src="/logo-jmdeveloper.png">
+</p>
 
 <h1 align="center">
-### JOSÉ MILTON JÚNIOR :computer:
- </h1>
+JOSÉ MILTON JÚNIOR :computer:
+</h1>
 
 
- 
+## Contatos :memo:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JmJunior20)]( https://github.com/JmJunior20)
 
@@ -20,12 +21,7 @@ Meu nome é José Milton Júnior, sou estudante de Análise e Desenvolvimento de
 </p>
 
 
----
-
- 
-
 ## Tecnologias :rocket:
-
  
 
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
