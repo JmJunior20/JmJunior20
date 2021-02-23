@@ -1,6 +1,8 @@
+<h1 align="center">
 ![welcome](/logo-jmdeveloper.png?raw=true)
 
 ### JOSÉ MILTON JÚNIOR :computer:
+</h1>
 
  
 
