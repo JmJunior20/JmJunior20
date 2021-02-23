@@ -1,4 +1,4 @@
-![welcome](/logo_perfil.png?raw=true)
+![welcome](/logo-jmdeveloper.png?raw=true)
 
 ### JOSÉ MILTON JÚNIOR :computer:
 
