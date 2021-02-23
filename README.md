@@ -34,5 +34,4 @@ Meu nome é José Milton Júnior, sou estudante de Análise e Desenvolvimento de
 
  ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-</details>
 
