@@ -1,7 +1,3 @@
-<p align="center">
-<img src="/logo-jmdeveloper.png">
-</p>
-
 <h1 align="center">
 JOSÉ MILTON JÚNIOR :computer:
 </h1>
